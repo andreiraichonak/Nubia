@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="nubia_res_background" />
+    <item type="id" name="nubia_res_checkbox" />
+    <item type="id" name="nubia_res_content" />
+    <item type="id" name="nubia_res_empty" />
+    <item type="id" name="nubia_res_hint" />
+    <item type="id" name="nubia_res_icon" />
+    <item type="id" name="nubia_res_icon1" />
+    <item type="id" name="nubia_res_icon2" />
+    <item type="id" name="nubia_res_input" />
+    <item type="id" name="nubia_res_left_icon" />
+    <item type="id" name="nubia_res_list" />
+    <item type="id" name="nubia_res_menu" />
+    <item type="id" name="nubia_res_message" />
+    <item type="id" name="nubia_res_primary" />
+    <item type="id" name="nubia_res_progress" />
+    <item type="id" name="nubia_res_right_icon" />
+    <item type="id" name="nubia_res_summary" />
+    <item type="id" name="vselectedIcon" />
+    <item type="id" name="nubia_res_tabcontent" />
+    <item type="id" name="nubia_res_tabhost" />
+    <item type="id" name="nubia_res_tabs" />
+    <item type="id" name="nubia_res_text1" />
+    <item type="id" name="nubia_res_text2" />
+    <item type="id" name="nubia_res_title" />
+    <item type="id" name="nubia_res_title_container" />
+    <item type="id" name="nubia_res_toggle" />
+    <item type="id" name="nubia_res_secondaryProgress" />
+    <item type="id" name="nubia_res_lock_screen" />
+    <item type="id" name="nubia_res_edit" />
+    <item type="id" name="nubia_res_widget_frame" />
+    <item type="id" name="nubia_res_button1" />
+    <item type="id" name="nubia_res_button2" />
+    <item type="id" name="nubia_res_button3" />
+    <item type="id" name="nubia_res_extractArea" />
+    <item type="id" name="nubia_res_candidatesArea" />
+    <item type="id" name="nubia_res_inputArea" />
+    <item type="id" name="nubia_res_inputExtractEditText" />
+    <item type="id" name="nubia_res_selectAll" />
+    <item type="id" name="nubia_res_cut" />
+    <item type="id" name="nubia_res_copy" />
+    <item type="id" name="nubia_res_paste" />
+    <item type="id" name="nubia_res_copyUrl" />
+    <item type="id" name="nubia_res_selectTextMode" />
+    <item type="id" name="nubia_res_switchInputMethod" />
+    <item type="id" name="nubia_res_keyboardView" />
+    <item type="id" name="nubia_res_closeButton" />
+    <item type="id" name="nubia_res_startSelectingText" />
+    <item type="id" name="nubia_res_stopSelectingText" />
+    <item type="id" name="nubia_res_addToDictionary" />
+    <item type="id" name="nubia_res_accountPreferences" />
+    <item type="id" name="nubia_res_smallIcon" />
+    <item type="id" name="nubia_res_custom" />
+    <item type="id" name="nubia_res_fillInIntent" />
+    <item type="id" name="nubia_res_rowTypeId" />
+    <item type="id" name="nubia_res_action_menu_divider" />
+    <item type="id" name="nubia_res_icon_menu_presenter" />
+    <item type="id" name="nubia_res_list_menu_presenter" />
+    <item type="id" name="nubia_res_action_menu_presenter" />
+    <item type="id" name="nubia_res_overflow_menu_presenter" />
+    <item type="id" name="nubia_res_popup_submenu_presenter" />
+    <item type="id" name="nubia_res_action_bar_spinner" />
+    <item type="id" name="nubia_res_edittext_container" />
+    <item type="id" name="nubia_res_switchWidget" />
+    <item type="id" name="nubia_res_parentPanel" />
+    <item type="id" name="nubia_res_dialog_animate_view" />
+    <item type="id" name="nubia_res_animPanel" />
+    <item type="id" name="nubia_res_pcenterPanel" />
+    <item type="id" name="nubia_res_topPanel" />
+    <item type="id" name="nubia_res_title_template" />
+    <item type="id" name="nubia_res_alertTitle" />
+    <item type="id" name="nubia_res_titleDivider" />
+    <item type="id" name="nubia_res_contentPanel" />
+    <item type="id" name="nubia_res_scrollView" />
+    <item type="id" name="nubia_res_customPanel" />
+    <item type="id" name="nubia_res_buttonPanel" />
+    <item type="id" name="nubia_res_leftSpacer" />
+    <item type="id" name="nubia_res_rightSpacer" />
+    <item type="id" name="nubia_res_select_dialog_listview" />
+    <item type="id" name="nubia_res_titleDividerTop" />
+    <item type="id" name="nubia_res_lettertext" />
+    <item type="id" name="nubia_res_numberpicker_input" />
+    <item type="id" name="nubia_res_pickers" />
+    <item type="id" name="nubia_res_month" />
+    <item type="id" name="nubia_res_day" />
+    <item type="id" name="nubia_res_year" />
+    <item type="id" name="nubia_res_calendar_view" />
+    <item type="id" name="nubia_res_increment" />
+    <item type="id" name="nubia_res_decrement" />
+    <item type="id" name="nubia_res_datePicker" />
+    <item type="id" name="nubia_res_hour" />
+    <item type="id" name="nubia_res_minute" />
+    <item type="id" name="nubia_res_amPm" />
+    <item type="id" name="nubia_res_timePicker" />
+    <item type="id" name="nubia_res_divider" />
+    <item type="id" name="drag_handle" />
+    <item type="id" name="click_remove" />
+    <item type="id" name="img_background">false</item>
+    <item type="id" name="txt_introduce">false</item>
+    <item type="id" name="img_back">false</item>
+    <item type="id" name="txt_function">false</item>
+    <item type="id" name="btnFix">false</item>
+    <item type="id" name="btnSave">false</item>
+    <item type="id" name="view_container">false</item>
+    <item type="id" name="fixparent">false</item>
+    <item type="id" name="back">false</item>
+    <item type="id" name="edittext">false</item>
+    <item type="id" name="list_more">false</item>
+    <item type="id" name="rl_title">false</item>
+    <item type="id" name="txt_device_name">false</item>
+    <item type="id" name="vPager">false</item>
+    <item type="id" name="spinner">false</item>
+    <item type="id" name="GridView">false</item>
+    <item type="id" name="ItemImage">false</item>
+    <item type="id" name="ItemText">false</item>
+    <item type="id" name="textView">false</item>
+    <item type="id" name="llScreen">false</item>
+    <item type="id" name="llScreenLeft">false</item>
+    <item type="id" name="txtSpeed">false</item>
+    <item type="id" name="txtDirection">false</item>
+    <item type="id" name="txtBlast">false</item>
+    <item type="id" name="llScreenRight">false</item>
+    <item type="id" name="txtPower">false</item>
+    <item type="id" name="txtTemp">false</item>
+    <item type="id" name="txtMode">false</item>
+    <item type="id" name="rlpowerbar">false</item>
+    <item type="id" name="imgBtnUp">false</item>
+    <item type="id" name="imgBtnDown">false</item>
+    <item type="id" name="imgbtn_power">false</item>
+    <item type="id" name="btnMode">false</item>
+    <item type="id" name="btnSpeed">false</item>
+    <item type="id" name="btnDirection">false</item>
+    <item type="id" name="btnBlast">false</item>
+    <item type="id" name="layout_one">false</item>
+    <item type="id" name="txtVersionId">false</item>
+    <item type="id" name="parent">false</item>
+    <item type="id" name="btn">false</item>
+    <item type="id" name="btn_select">false</item>
+    <item type="id" name="btn_add">false</item>
+    <item type="id" name="feed">false</item>
+    <item type="id" name="rlMultiTitlebar">false</item>
+    <item type="id" name="relative_back">false</item>
+    <item type="id" name="emptylayout">false</item>
+    <item type="id" name="device_list">false</item>
+    <item type="id" name="bottom">false</item>
+    <item type="id" name="new_build">false</item>
+    <item type="id" name="btn_new_build">false</item>
+    <item type="id" name="bottom2">false</item>
+    <item type="id" name="txt_delete">false</item>
+    <item type="id" name="btn_delete">false</item>
+    <item type="id" name="txt_rename">false</item>
+    <item type="id" name="btn_rename">false</item>
+    <item type="id" name="edit_name">false</item>
+    <item type="id" name="view">false</item>
+    <item type="id" name="instruction">false</item>
+    <item type="id" name="goback">false</item>
+    <item type="id" name="startfix">false</item>
+    <item type="id" name="img_view">false</item>
+    <item type="id" name="imgDivider">false</item>
+    <item type="id" name="edit_search">false</item>
+    <item type="id" name="img_divider">false</item>
+    <item type="id" name="img_bottomdivider">false</item>
+    <item type="id" name="btnNewPanel">false</item>
+    <item type="id" name="custom_remote">false</item>
+    <item type="id" name="layout_listview">false</item>
+    <item type="id" name="listView">false</item>
+    <item type="id" name="letter">false</item>
+    <item type="id" name="llLetter">false</item>
+    <item type="id" name="relativeLayout">false</item>
+    <item type="id" name="name">false</item>
+    <item type="id" name="extraName">false</item>
+    <item type="id" name="txtDeviceName">false</item>
+    <item type="id" name="txtDeviceDetails">false</item>
+    <item type="id" name="device_icon">false</item>
+    <item type="id" name="device_name">false</item>
+    <item type="id" name="device_chk">false</item>
+    <item type="id" name="txt_title_name">false</item>
+    <item type="id" name="line">false</item>
+    <item type="id" name="imgBtn_search">false</item>
+    <item type="id" name="editView_Model_name">false</item>
+    <item type="id" name="middle">false</item>
+    <item type="id" name="img_type_icon">false</item>
+    <item type="id" name="txt_brand_name">false</item>
+    <item type="id" name="listView_test_keys">false</item>
+    <item type="id" name="rl_air_condition_test_keys">false</item>
+    <item type="id" name="listView_air_condition_test_keys">false</item>
+    <item type="id" name="rlConfirm">false</item>
+    <item type="id" name="cancel">false</item>
+    <item type="id" name="ok">false</item>
+    <item type="id" name="ItemTitle">false</item>
+    <item type="id" name="con_response">false</item>
+    <item type="id" name="fun_response">false</item>
+    <item type="id" name="start_control">false</item>
+    <item type="id" name="updateVersionProgress">false</item>
+    <item type="id" name="download_noti_image">false</item>
+    <item type="id" name="download_noti_text">false</item>
+    <item type="id" name="download_noti_progressbar">false</item>
+    <item type="id" name="download_apk_name">false</item>
+    <item type="id" name="updateProgress">false</item>
+    <item type="id" name="user_feedback_title">false</item>
+    <item type="id" name="mUserFeedbackContent">false</item>
+    <item type="id" name="mUserFeedbackEmail">false</item>
+    <item type="id" name="submit_button">false</item>
+    <item type="id" name="content_edit">false</item>
+    <item type="id" name="email_edit">false</item>
+    <item type="id" name="buttons">false</item>
+    <item type="id" name="send">false</item>
+    <item type="id" name="button">false</item>
+    <item type="id" name="viewpage">false</item>
+    <item type="id" name="music_welcome_viewpager">false</item>
+    <item type="id" name="pagertitle">false</item>
+    <item type="id" name="start">false</item>
+    <item type="id" name="page0">false</item>
+    <item type="id" name="page1">false</item>
+    <item type="id" name="page2">false</item>
+    <item type="id" name="page3">false</item>
+    <item type="id" name="img">false</item>
+    <item type="id" name="artist_name_textview">false</item>
+    <item type="id" name="artist_albums_textview">false</item>
+    <item type="id" name="btn_fun_name">false</item>
+    <item type="id" name="txt_learning_info">false</item>
+    <item type="id" name="letterText">false</item>
+    <item type="id" name="text">false</item>
+    <item type="id" name="num">false</item>
+    <item type="id" name="select">false</item>
+    <item type="id" name="select_txt">false</item>
+    <item type="id" name="back_lay">false</item>
+    <item type="id" name="select_num_txt">false</item>
+    <item type="id" name="select_all_imgview">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="more_forward">false</item>
+    <item type="id" name="skip_layout">false</item>
+    <item type="id" name="skip">false</item>
+    <item type="id" name="start_layout">false</item>
+    <item type="id" name="pointunion">false</item>
+    <item type="id" name="naviagtion_pic">false</item>
+    <item type="id" name="list">false</item>
+    <item type="id" name="layout">false</item>
+    <item type="id" name="iamge">false</item>
+    <item type="id" name="item_text">false</item>
+    <item type="id" name="power">false</item>
+    <item type="id" name="add">false</item>
+    <item type="id" name="fan">false</item>
+    <item type="id" name="mode">false</item>
+    <item type="id" name="turbo">false</item>
+    <item type="id" name="sleep">false</item>
+    <item type="id" name="button_lower">false</item>
+    <item type="id" name="swing_updown">false</item>
+    <item type="id" name="swing_leftright">false</item>
+    <item type="id" name="voltext">false</item>
+    <item type="id" name="button_mute">false</item>
+    <item type="id" name="popup">false</item>
+    <item type="id" name="play">false</item>
+    <item type="id" name="advance">false</item>
+    <item type="id" name="pre">false</item>
+    <item type="id" name="pause">false</item>
+    <item type="id" name="next">false</item>
+    <item type="id" name="btnMenu">false</item>
+    <item type="id" name="imgBtnPower">false</item>
+    <item type="id" name="menu">false</item>
+    <item type="id" name="myView">false</item>
+    <item type="id" name="rewind">false</item>
+    <item type="id" name="fastforward">false</item>
+    <item type="id" name="stop">false</item>
+    <item type="id" name="eject">false</item>
+    <item type="id" name="txt">false</item>
+    <item type="id" name="shortcut">false</item>
+    <item type="id" name="btn_right_focus">false</item>
+    <item type="id" name="btn_silence">false</item>
+    <item type="id" name="btn_mode">false</item>
+    <item type="id" name="btn_back">false</item>
+    <item type="id" name="btnchange_up">false</item>
+    <item type="id" name="btnchange_down">false</item>
+    <item type="id" name="btnpic_up">false</item>
+    <item type="id" name="btnpic_down">false</item>
+    <item type="id" name="btnvol_up">false</item>
+    <item type="id" name="btnvol_down">false</item>
+    <item type="id" name="mini_red">false</item>
+    <item type="id" name="mini_yellow">false</item>
+    <item type="id" name="mini_green">false</item>
+    <item type="id" name="mini_blue">false</item>
+    <item type="id" name="project_top">false</item>
+    <item type="id" name="project_middle">false</item>
+    <item type="id" name="project_bottom">false</item>
+    <item type="id" name="btn_menu">false</item>
+    <item type="id" name="imgbtn_mute">false</item>
+    <item type="id" name="btn_input">false</item>
+    <item type="id" name="edit_rename">false</item>
+    <item type="id" name="leave">false</item>
+    <item type="id" name="homepage">false</item>
+    <item type="id" name="btn_goback2">false</item>
+    <item type="id" name="button_stop">false</item>
+    <item type="id" name="button_play">false</item>
+    <item type="id" name="com_bar">false</item>
+    <item type="id" name="navigator_part">false</item>
+    <item type="id" name="digital_part">false</item>
+    <item type="id" name="text_message">false</item>
+    <item type="id" name="muteBtn">false</item>
+    <item type="id" name="imgbtn_up">false</item>
+    <item type="id" name="imgbtn_down">false</item>
+    <item type="id" name="channel_store">false</item>
+    <item type="id" name="switcher">false</item>
+    <item type="id" name="imgbtnVol_up">false</item>
+    <item type="id" name="imgbtnVol_lower">false</item>
+    <item type="id" name="firstColumn">false</item>
+    <item type="id" name="firstImgBtn">false</item>
+    <item type="id" name="fourImgBtn">false</item>
+    <item type="id" name="sevenImgBtn">false</item>
+    <item type="id" name="imgbtn_last">false</item>
+    <item type="id" name="secondColumn">false</item>
+    <item type="id" name="secondImgBtn">false</item>
+    <item type="id" name="fiveImgBtn">false</item>
+    <item type="id" name="eightImgBtn">false</item>
+    <item type="id" name="zeroImgBtn">false</item>
+    <item type="id" name="threeColumn">false</item>
+    <item type="id" name="thirdImgBtn">false</item>
+    <item type="id" name="sixImgBtn">false</item>
+    <item type="id" name="nineImgBtn">false</item>
+    <item type="id" name="fourColumn">false</item>
+    <item type="id" name="menu_bar">false</item>
+    <item type="id" name="player_bar">false</item>
+    <item type="id" name="select_all_menu_item">false</item>
+</resources>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="nubia_res_background" />
+    <item type="id" name="nubia_res_checkbox" />
+    <item type="id" name="nubia_res_content" />
+    <item type="id" name="nubia_res_empty" />
+    <item type="id" name="nubia_res_hint" />
+    <item type="id" name="nubia_res_icon" />
+    <item type="id" name="nubia_res_icon1" />
+    <item type="id" name="nubia_res_icon2" />
+    <item type="id" name="nubia_res_input" />
+    <item type="id" name="nubia_res_left_icon" />
+    <item type="id" name="nubia_res_list" />
+    <item type="id" name="nubia_res_menu" />
+    <item type="id" name="nubia_res_message" />
+    <item type="id" name="nubia_res_primary" />
+    <item type="id" name="nubia_res_progress" />
+    <item type="id" name="nubia_res_right_icon" />
+    <item type="id" name="nubia_res_summary" />
+    <item type="id" name="vselectedIcon" />
+    <item type="id" name="nubia_res_tabcontent" />
+    <item type="id" name="nubia_res_tabhost" />
+    <item type="id" name="nubia_res_tabs" />
+    <item type="id" name="nubia_res_text1" />
+    <item type="id" name="nubia_res_text2" />
+    <item type="id" name="nubia_res_title" />
+    <item type="id" name="nubia_res_title_container" />
+    <item type="id" name="nubia_res_toggle" />
+    <item type="id" name="nubia_res_secondaryProgress" />
+    <item type="id" name="nubia_res_lock_screen" />
+    <item type="id" name="nubia_res_edit" />
+    <item type="id" name="nubia_res_widget_frame" />
+    <item type="id" name="nubia_res_button1" />
+    <item type="id" name="nubia_res_button2" />
+    <item type="id" name="nubia_res_button3" />
+    <item type="id" name="nubia_res_extractArea" />
+    <item type="id" name="nubia_res_candidatesArea" />
+    <item type="id" name="nubia_res_inputArea" />
+    <item type="id" name="nubia_res_inputExtractEditText" />
+    <item type="id" name="nubia_res_selectAll" />
+    <item type="id" name="nubia_res_cut" />
+    <item type="id" name="nubia_res_copy" />
+    <item type="id" name="nubia_res_paste" />
+    <item type="id" name="nubia_res_copyUrl" />
+    <item type="id" name="nubia_res_selectTextMode" />
+    <item type="id" name="nubia_res_switchInputMethod" />
+    <item type="id" name="nubia_res_keyboardView" />
+    <item type="id" name="nubia_res_closeButton" />
+    <item type="id" name="nubia_res_startSelectingText" />
+    <item type="id" name="nubia_res_stopSelectingText" />
+    <item type="id" name="nubia_res_addToDictionary" />
+    <item type="id" name="nubia_res_accountPreferences" />
+    <item type="id" name="nubia_res_smallIcon" />
+    <item type="id" name="nubia_res_custom" />
+    <item type="id" name="nubia_res_fillInIntent" />
+    <item type="id" name="nubia_res_rowTypeId" />
+    <item type="id" name="nubia_res_action_menu_divider" />
+    <item type="id" name="nubia_res_icon_menu_presenter" />
+    <item type="id" name="nubia_res_list_menu_presenter" />
+    <item type="id" name="nubia_res_action_menu_presenter" />
+    <item type="id" name="nubia_res_overflow_menu_presenter" />
+    <item type="id" name="nubia_res_popup_submenu_presenter" />
+    <item type="id" name="nubia_res_action_bar_spinner" />
+    <item type="id" name="nubia_res_edittext_container" />
+    <item type="id" name="nubia_res_switchWidget" />
+    <item type="id" name="nubia_res_parentPanel" />
+    <item type="id" name="nubia_res_dialog_animate_view" />
+    <item type="id" name="nubia_res_animPanel" />
+    <item type="id" name="nubia_res_pcenterPanel" />
+    <item type="id" name="nubia_res_topPanel" />
+    <item type="id" name="nubia_res_title_template" />
+    <item type="id" name="nubia_res_alertTitle" />
+    <item type="id" name="nubia_res_titleDivider" />
+    <item type="id" name="nubia_res_contentPanel" />
+    <item type="id" name="nubia_res_scrollView" />
+    <item type="id" name="nubia_res_customPanel" />
+    <item type="id" name="nubia_res_buttonPanel" />
+    <item type="id" name="nubia_res_leftSpacer" />
+    <item type="id" name="nubia_res_rightSpacer" />
+    <item type="id" name="nubia_res_select_dialog_listview" />
+    <item type="id" name="nubia_res_titleDividerTop" />
+    <item type="id" name="nubia_res_lettertext" />
+    <item type="id" name="nubia_res_numberpicker_input" />
+    <item type="id" name="nubia_res_pickers" />
+    <item type="id" name="nubia_res_month" />
+    <item type="id" name="nubia_res_day" />
+    <item type="id" name="nubia_res_year" />
+    <item type="id" name="nubia_res_calendar_view" />
+    <item type="id" name="nubia_res_increment" />
+    <item type="id" name="nubia_res_decrement" />
+    <item type="id" name="nubia_res_datePicker" />
+    <item type="id" name="nubia_res_hour" />
+    <item type="id" name="nubia_res_minute" />
+    <item type="id" name="nubia_res_amPm" />
+    <item type="id" name="nubia_res_timePicker" />
+    <item type="id" name="nubia_res_divider" />
+    <item type="id" name="feature_browser_view_pager">false</item>
+    <item type="id" name="indicator">false</item>
+    <item type="id" name="main_action_bar">false</item>
+    <item type="id" name="main_usermanual_layout">false</item>
+    <item type="id" name="main_usermanual">false</item>
+    <item type="id" name="main_faq_layout">false</item>
+    <item type="id" name="main_faq">false</item>
+    <item type="id" name="main_feedback_layout">false</item>
+    <item type="id" name="main_feedback">false</item>
+    <item type="id" name="main_search_button">false</item>
+    <item type="id" name="main_setting">false</item>
+    <item type="id" name="shadow">false</item>
+    <item type="id" name="main_title_layout">false</item>
+    <item type="id" name="manual_white_background">false</item>
+    <item type="id" name="image_top_backgroud">false</item>
+    <item type="id" name="logo">false</item>
+    <item type="id" name="main_title_name">false</item>
+    <item type="id" name="handbook">false</item>
+    <item type="id" name="gv_feature_all">false</item>
+    <item type="id" name="gv_feature_item_imageview">false</item>
+    <item type="id" name="gv_feature_item_imageview_readed">false</item>
+    <item type="id" name="gv_feature_item_title">false</item>
+    <item type="id" name="faq_all_list_view">false</item>
+    <item type="id" name="faq_all_type_item">false</item>
+    <item type="id" name="faq_all_type_click_item">false</item>
+    <item type="id" name="faq_question_list_click_item">false</item>
+    <item type="id" name="faq_answer_list_click_item">false</item>
+    <item type="id" name="list_faq_hot">false</item>
+    <item type="id" name="mainweixin">false</item>
+    <item type="id" name="main_bottom">false</item>
+    <item type="id" name="faq_hot_fragment">false</item>
+    <item type="id" name="faq_all_fragment">false</item>
+    <item type="id" name="faq_search_fragment">false</item>
+    <item type="id" name="tab_indicator">false</item>
+    <item type="id" name="tabpager">false</item>
+    <item type="id" name="list_faq_search_result">false</item>
+    <item type="id" name="faq_search_no_result">false</item>
+    <item type="id" name="search_layout">false</item>
+    <item type="id" name="search_button">false</item>
+    <item type="id" name="search_text">false</item>
+    <item type="id" name="keywordsFlow">false</item>
+    <item type="id" name="show_more">false</item>
+    <item type="id" name="faq_result_item_question">false</item>
+    <item type="id" name="faq_result_click_question">false</item>
+    <item type="id" name="faq_click_expand">false</item>
+    <item type="id" name="faq_result_click_answer">false</item>
+    <item type="id" name="body2">false</item>
+    <item type="id" name="body_layout">false</item>
+    <item type="id" name="body">false</item>
+    <item type="id" name="footer">false</item>
+    <item type="id" name="feature_browser_bn_start">false</item>
+    <item type="id" name="handbook_item_download_layout">false</item>
+    <item type="id" name="handbook_item_download_delete">false</item>
+    <item type="id" name="handbook_item_download_progress_value">false</item>
+    <item type="id" name="handbook_item_download_progress">false</item>
+    <item type="id" name="item_swap_test">false</item>
+    <item type="id" name="gv_title_pic">false</item>
+    <item type="id" name="gv_title_name">false</item>
+    <item type="id" name="gv_download_state">false</item>
+    <item type="id" name="lv_title_pic">false</item>
+    <item type="id" name="lv_title_name">false</item>
+    <item type="id" name="parent_search">false</item>
+    <item type="id" name="handbook_search_no_result_all">false</item>
+    <item type="id" name="handbook_search_no_result2">false</item>
+    <item type="id" name="handbook_search_no_result">false</item>
+    <item type="id" name="handbook_search_result">false</item>
+    <item type="id" name="search_result_indicator">false</item>
+    <item type="id" name="search_result_bn_start">false</item>
+    <item type="id" name="handbook_result">false</item>
+    <item type="id" name="handbook_result_title">false</item>
+    <item type="id" name="handbook_update_revert">false</item>
+    <item type="id" name="handbook_version_checkbox">false</item>
+    <item type="id" name="hot_item_top">false</item>
+    <item type="id" name="hot_item_top_question">false</item>
+    <item type="id" name="hot_item_top_button">false</item>
+    <item type="id" name="faq_click_top">false</item>
+    <item type="id" name="faq_click_question">false</item>
+    <item type="id" name="faq_click_answer">false</item>
+    <item type="id" name="handbook_more_pic">false</item>
+    <item type="id" name="handbook_more">false</item>
+    <item type="id" name="shortcut">false</item>
+    <item type="id" name="search_image_button">false</item>
+    <item type="id" name="search_content_input">false</item>
+    <item type="id" name="setting_content_update">false</item>
+    <item type="id" name="setting_version_update">false</item>
+    <item type="id" name="setting_background">false</item>
+    <item type="id" name="update_auto_text">false</item>
+    <item type="id" name="setting_update_button">false</item>
+    <item type="id" name="update_no_content">false</item>
+    <item type="id" name="update_has_content">false</item>
+    <item type="id" name="update_content_text">false</item>
+    <item type="id" name="content_upgrade_list">false</item>
+    <item type="id" name="content_upgrade_cancel">false</item>
+    <item type="id" name="content_upgrade_ok">false</item>
+    <item type="id" name="update_title_pic">false</item>
+    <item type="id" name="update_title_name">false</item>
+    <item type="id" name="update_title_size">false</item>
+    <item type="id" name="update_item_checkbox">false</item>
+    <item type="id" name="feedback_frame">false</item>
+    <item type="id" name="user_feedback_content">false</item>
+    <item type="id" name="user_feedback_num">false</item>
+    <item type="id" name="user_feedback_email">false</item>
+    <item type="id" name="user_feedback_button">false</item>
+    <item type="id" name="user_manual_show_page">false</item>
+    <item type="id" name="user_manual_web_view">false</item>
+    <item type="id" name="user_manual_search">false</item>
+    <item type="id" name="user_manual_search_word">false</item>
+    <item type="id" name="user_manual_search_button">false</item>
+    <item type="id" name="user_manual_search_next_button">false</item>
+    <item type="id" name="manual_download_page">false</item>
+    <item type="id" name="download_progress">false</item>
+    <item type="id" name="download_progress_bar">false</item>
+    <item type="id" name="download_number_progress">false</item>
+    <item type="id" name="download_text">false</item>
+    <item type="id" name="more_feedback">false</item>
+    <item type="id" name="more_settings">false</item>
+    <item type="id" name="tool_faq">false</item>
+    <item type="id" name="tool_usermanual">false</item>
+    <item type="id" name="tool_feedback">false</item>
+    <item type="id" name="tool_settings">false</item>
+</resources>

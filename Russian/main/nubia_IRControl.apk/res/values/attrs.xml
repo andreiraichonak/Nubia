@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="popupMenuStyle" format="reference" />
+    <attr name="textAppearanceExtraSmall" format="reference" />
+    <attr name="textAppearanceExtraSpecial" format="reference" />
+    <attr name="nubiaTabItemWidth" format="dimension" />
+    <attr name="nubiaTabIndicatorMarginTop" format="dimension" />
+    <attr name="nubia_res_numberPickerStyle" format="reference" />
+    <attr name="nubia_res_timePickerStyle" format="reference" />
+    <attr name="nubia_res_datePickerStyle" format="reference" />
+    <attr name="nubia_res_startYear" format="integer" />
+    <attr name="nubia_res_endYear" format="integer" />
+    <attr name="nubia_res_spinnersShown" format="boolean" />
+    <attr name="nubia_res_calendarViewShown" format="boolean" />
+    <attr name="nubia_res_minDate" format="string" />
+    <attr name="nubia_res_maxDate" format="string" />
+    <attr name="nubia_res_solidColor" format="reference|color" />
+    <attr name="nubia_res_selectionDivider" format="reference" />
+    <attr name="nubia_res_selectionDividerHeight" format="dimension" />
+    <attr name="nubia_res_selectionDividersDistance" format="dimension" />
+    <attr name="nubia_res_internalMinHeight" format="dimension" />
+    <attr name="nubia_res_internalMaxHeight" format="dimension" />
+    <attr name="nubia_res_internalMinWidth" format="dimension" />
+    <attr name="nubia_res_internalMaxWidth" format="dimension" />
+    <attr name="nubia_res_internalLayout" format="reference" />
+    <attr name="nubia_res_virtualButtonPressedDrawable" format="reference" />
+    <attr name="normal_height" format="dimension" />
+    <attr name="expanded_height" format="dimension" />
+    <attr name="grabber" format="reference" />
+    <attr name="dragndrop_background" format="color" />
+    <attr name="collapsed_height" format="dimension" />
+    <attr name="drag_scroll_start" format="float" />
+    <attr name="max_drag_scroll_speed" format="float" />
+    <attr name="float_background_color" format="color" />
+    <attr name="remove_mode">
+        <enum name="clickRemove" value="0" />
+        <enum name="flingRemove" value="1" />
+    </attr>
+    <attr name="track_drag_sort" format="boolean" />
+    <attr name="float_alpha" format="float" />
+    <attr name="slide_shuffle_speed" format="float" />
+    <attr name="remove_animation_duration" format="integer" />
+    <attr name="drop_animation_duration" format="integer" />
+    <attr name="drag_enabled" format="boolean" />
+    <attr name="sort_enabled" format="boolean" />
+    <attr name="remove_enabled" format="boolean" />
+    <attr name="drag_start_mode">
+        <enum name="onDown" value="0" />
+        <enum name="onMove" value="1" />
+        <enum name="onLongPress" value="2" />
+    </attr>
+    <attr name="drag_handle_id" format="integer" />
+    <attr name="fling_handle_id" format="integer" />
+    <attr name="click_remove_id" format="integer" />
+    <attr name="use_default_controller" format="boolean" />
+</resources>

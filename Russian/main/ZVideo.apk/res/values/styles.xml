@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Transparent">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="Holo.ActionBar" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:background">@drawable/actionbar_translucent</item>
+        <item name="android:displayOptions">useLogo|showHome</item>
+        <item name="android:backgroundStacked">@null</item>
+    </style>
+    <style name="Theme.MovieFullscreenLight" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:actionBarStyle">@style/Holo.ActionBar</item>
+    </style>
+    <style name="Theme.MovieFullscreenDark" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:actionBarStyle">@style/Holo.ActionBar</item>
+    </style>
+    <style name="NoTitleDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="playtimertext" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@color/movie_black</item>
+    </style>
+    <style name="playtimerTitle" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:textSize">20.0sp</item>
+    </style>
+</resources>

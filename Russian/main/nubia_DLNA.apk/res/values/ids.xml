@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="nubia_res_background" />
+    <item type="id" name="nubia_res_checkbox" />
+    <item type="id" name="nubia_res_content" />
+    <item type="id" name="nubia_res_empty" />
+    <item type="id" name="nubia_res_hint" />
+    <item type="id" name="nubia_res_icon" />
+    <item type="id" name="nubia_res_icon1" />
+    <item type="id" name="nubia_res_icon2" />
+    <item type="id" name="nubia_res_input" />
+    <item type="id" name="nubia_res_left_icon" />
+    <item type="id" name="nubia_res_list" />
+    <item type="id" name="nubia_res_menu" />
+    <item type="id" name="nubia_res_message" />
+    <item type="id" name="nubia_res_primary" />
+    <item type="id" name="nubia_res_progress" />
+    <item type="id" name="nubia_res_right_icon" />
+    <item type="id" name="nubia_res_summary" />
+    <item type="id" name="vselectedIcon" />
+    <item type="id" name="nubia_res_tabcontent" />
+    <item type="id" name="nubia_res_tabhost" />
+    <item type="id" name="nubia_res_tabs" />
+    <item type="id" name="nubia_res_text1" />
+    <item type="id" name="nubia_res_text2" />
+    <item type="id" name="nubia_res_title" />
+    <item type="id" name="nubia_res_title_container" />
+    <item type="id" name="nubia_res_toggle" />
+    <item type="id" name="nubia_res_secondaryProgress" />
+    <item type="id" name="nubia_res_lock_screen" />
+    <item type="id" name="nubia_res_edit" />
+    <item type="id" name="nubia_res_widget_frame" />
+    <item type="id" name="nubia_res_button1" />
+    <item type="id" name="nubia_res_button2" />
+    <item type="id" name="nubia_res_button3" />
+    <item type="id" name="nubia_res_extractArea" />
+    <item type="id" name="nubia_res_candidatesArea" />
+    <item type="id" name="nubia_res_inputArea" />
+    <item type="id" name="nubia_res_inputExtractEditText" />
+    <item type="id" name="nubia_res_selectAll" />
+    <item type="id" name="nubia_res_cut" />
+    <item type="id" name="nubia_res_copy" />
+    <item type="id" name="nubia_res_paste" />
+    <item type="id" name="nubia_res_copyUrl" />
+    <item type="id" name="nubia_res_selectTextMode" />
+    <item type="id" name="nubia_res_switchInputMethod" />
+    <item type="id" name="nubia_res_keyboardView" />
+    <item type="id" name="nubia_res_closeButton" />
+    <item type="id" name="nubia_res_startSelectingText" />
+    <item type="id" name="nubia_res_stopSelectingText" />
+    <item type="id" name="nubia_res_addToDictionary" />
+    <item type="id" name="nubia_res_accountPreferences" />
+    <item type="id" name="nubia_res_smallIcon" />
+    <item type="id" name="nubia_res_custom" />
+    <item type="id" name="nubia_res_fillInIntent" />
+    <item type="id" name="nubia_res_rowTypeId" />
+    <item type="id" name="nubia_res_action_menu_divider" />
+    <item type="id" name="nubia_res_icon_menu_presenter" />
+    <item type="id" name="nubia_res_list_menu_presenter" />
+    <item type="id" name="nubia_res_action_menu_presenter" />
+    <item type="id" name="nubia_res_overflow_menu_presenter" />
+    <item type="id" name="nubia_res_popup_submenu_presenter" />
+    <item type="id" name="nubia_res_action_bar_spinner" />
+    <item type="id" name="nubia_res_edittext_container" />
+    <item type="id" name="nubia_res_switchWidget" />
+    <item type="id" name="nubia_res_parentPanel" />
+    <item type="id" name="nubia_res_dialog_animate_view" />
+    <item type="id" name="nubia_res_animPanel" />
+    <item type="id" name="nubia_res_pcenterPanel" />
+    <item type="id" name="nubia_res_topPanel" />
+    <item type="id" name="nubia_res_title_template" />
+    <item type="id" name="nubia_res_alertTitle" />
+    <item type="id" name="nubia_res_titleDivider" />
+    <item type="id" name="nubia_res_contentPanel" />
+    <item type="id" name="nubia_res_scrollView" />
+    <item type="id" name="nubia_res_customPanel" />
+    <item type="id" name="nubia_res_buttonPanel" />
+    <item type="id" name="nubia_res_leftSpacer" />
+    <item type="id" name="nubia_res_rightSpacer" />
+    <item type="id" name="nubia_res_select_dialog_listview" />
+    <item type="id" name="nubia_res_titleDividerTop" />
+    <item type="id" name="nubia_res_lettertext" />
+    <item type="id" name="nubia_res_numberpicker_input" />
+    <item type="id" name="nubia_res_pickers" />
+    <item type="id" name="nubia_res_month" />
+    <item type="id" name="nubia_res_day" />
+    <item type="id" name="nubia_res_year" />
+    <item type="id" name="nubia_res_calendar_view" />
+    <item type="id" name="nubia_res_increment" />
+    <item type="id" name="nubia_res_decrement" />
+    <item type="id" name="nubia_res_datePicker" />
+    <item type="id" name="nubia_res_hour" />
+    <item type="id" name="nubia_res_minute" />
+    <item type="id" name="nubia_res_amPm" />
+    <item type="id" name="nubia_res_timePicker" />
+    <item type="id" name="nubia_res_divider" />
+    <item type="id" name="searchicon">false</item>
+    <item type="id" name="edit_search">false</item>
+    <item type="id" name="tv_device_name">false</item>
+    <item type="id" name="layout_bottom">false</item>
+    <item type="id" name="layout_progress">false</item>
+    <item type="id" name="layout_bottom333">false</item>
+    <item type="id" name="position">false</item>
+    <item type="id" name="duration">false</item>
+    <item type="id" name="seekbar">false</item>
+    <item type="id" name="layout_control">false</item>
+    <item type="id" name="play">false</item>
+    <item type="id" name="previous">false</item>
+    <item type="id" name="next">false</item>
+    <item type="id" name="layout_middle">false</item>
+    <item type="id" name="layout_music_info">false</item>
+    <item type="id" name="tv_music_artist">false</item>
+    <item type="id" name="tv_music_name">false</item>
+    <item type="id" name="tv_music_album">false</item>
+    <item type="id" name="image_music_cover">false</item>
+    <item type="id" name="play_loading_progress">false</item>
+    <item type="id" name="img_mute">false</item>
+    <item type="id" name="volume_seekbar">false</item>
+    <item type="id" name="layout_search">false</item>
+    <item type="id" name="btn_listview">false</item>
+    <item type="id" name="layoutsearchbar">false</item>
+    <item type="id" name="search_divider">false</item>
+    <item type="id" name="txt_no_render_connected">false</item>
+    <item type="id" name="txt_remote_playing">false</item>
+    <item type="id" name="txt_sub_remote_playing">false</item>
+    <item type="id" name="switch_stop">false</item>
+    <item type="id" name="gridview_entry_list">false</item>
+    <item type="id" name="listview_entry_list">false</item>
+    <item type="id" name="empty_view_load_failed">false</item>
+    <item type="id" name="empty_view_no_file">false</item>
+    <item type="id" name="loading_view">false</item>
+    <item type="id" name="sd_error_view">false</item>
+    <item type="id" name="bottom_divider">false</item>
+    <item type="id" name="guide_viewpager">false</item>
+    <item type="id" name="guide_page_indicator">false</item>
+    <item type="id" name="control_image">false</item>
+    <item type="id" name="layout_image_info">false</item>
+    <item type="id" name="txt_image_name">false</item>
+    <item type="id" name="layout_btn_play">false</item>
+    <item type="id" name="image_thumbnail">false</item>
+    <item type="id" name="layout_top">false</item>
+    <item type="id" name="layout_top_left">false</item>
+    <item type="id" name="image_local_icon">false</item>
+    <item type="id" name="txt_local_name">false</item>
+    <item type="id" name="layout_top_right">false</item>
+    <item type="id" name="layout_share_image">false</item>
+    <item type="id" name="layout_share_audio">false</item>
+    <item type="id" name="layout_share_viedo">false</item>
+    <item type="id" name="layout_nearby_device">false</item>
+    <item type="id" name="txt_nearby_device">false</item>
+    <item type="id" name="scan_progressBar">false</item>
+    <item type="id" name="listview_media_server">false</item>
+    <item type="id" name="empty_view_no_server">false</item>
+    <item type="id" name="wlan_error_view">false</item>
+    <item type="id" name="divider_land">false</item>
+    <item type="id" name="list_more">false</item>
+    <item type="id" name="listview_media_render">false</item>
+    <item type="id" name="empty_view_no_render">false</item>
+    <item type="id" name="listview_search">false</item>
+    <item type="id" name="empty_view_no_search">false</item>
+    <item type="id" name="edit_title">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="bottom_bar">false</item>
+    <item type="id" name="switch_avs_play">false</item>
+    <item type="id" name="updateVersionProgress">false</item>
+    <item type="id" name="download_noti_image">false</item>
+    <item type="id" name="download_noti_text">false</item>
+    <item type="id" name="download_noti_progressbar">false</item>
+    <item type="id" name="download_apk_name">false</item>
+    <item type="id" name="updateProgress">false</item>
+    <item type="id" name="layout_txt">false</item>
+    <item type="id" name="txt_load_failed">false</item>
+    <item type="id" name="btn_retry">false</item>
+    <item type="id" name="empty_entry_image">false</item>
+    <item type="id" name="empty_entry_tip">false</item>
+    <item type="id" name="empty_device_tip">false</item>
+    <item type="id" name="empty_device_image">false</item>
+    <item type="id" name="empty_search_tip">false</item>
+    <item type="id" name="content_edit">false</item>
+    <item type="id" name="email_edit">false</item>
+    <item type="id" name="buttons">false</item>
+    <item type="id" name="send">false</item>
+    <item type="id" name="cancel">false</item>
+    <item type="id" name="grid_file_thumb">false</item>
+    <item type="id" name="grid_file_name">false</item>
+    <item type="id" name="layout_title">false</item>
+    <item type="id" name="layout_bottom_txt">false</item>
+    <item type="id" name="controler_layout">false</item>
+    <item type="id" name="txt_slide_speed">false</item>
+    <item type="id" name="list_file_thumbnail">false</item>
+    <item type="id" name="list_file_name">false</item>
+    <item type="id" name="list_file_info1">false</item>
+    <item type="id" name="list_file_info2">false</item>
+    <item type="id" name="list_file_duration">false</item>
+    <item type="id" name="list_folder_thumbnail">false</item>
+    <item type="id" name="list_folder_name">false</item>
+    <item type="id" name="list_folder_info">false</item>
+    <item type="id" name="media_device_icon">false</item>
+    <item type="id" name="media_device_name">false</item>
+    <item type="id" name="render_item_icon">false</item>
+    <item type="id" name="btn_disconnect">false</item>
+    <item type="id" name="render_item_name">false</item>
+    <item type="id" name="render_item_connected">false</item>
+    <item type="id" name="txt_loading">false</item>
+    <item type="id" name="more_forward">false</item>
+    <item type="id" name="music_welcome_viewpager">false</item>
+    <item type="id" name="skip_layout">false</item>
+    <item type="id" name="skip">false</item>
+    <item type="id" name="start_layout">false</item>
+    <item type="id" name="start">false</item>
+    <item type="id" name="pointunion">false</item>
+    <item type="id" name="naviagtion_pic">false</item>
+    <item type="id" name="shortcut">false</item>
+    <item type="id" name="layout_listdialog">false</item>
+    <item type="id" name="render_dialog_listview">false</item>
+    <item type="id" name="sd_error_text">false</item>
+    <item type="id" name="sd_error_image">false</item>
+    <item type="id" name="wlan_error_text">false</item>
+    <item type="id" name="wlan_error_image">false</item>
+    <item type="id" name="wlan_error_text_tip">false</item>
+    <item type="id" name="btn_setting_wlan">false</item>
+    <item type="id" name="action_renders">false</item>
+    <item type="id" name="action_scan_device">false</item>
+    <item type="id" name="action_more">false</item>
+</resources>

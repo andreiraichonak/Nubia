@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="nubia_res_alertDialogCenterButtons">false</bool>
+    <bool name="nubia_res_config_closeDialogWhenTouchOutside">true</bool>
+    <bool name="screen_orientation_only_portrait">true</bool>
+</resources>

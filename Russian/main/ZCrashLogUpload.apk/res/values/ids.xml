@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="exception_title">false</item>
+    <item type="id" name="exception_steps">false</item>
+    <item type="id" name="exception_info">false</item>
+    <item type="id" name="cancle_button">false</item>
+    <item type="id" name="send_button">false</item>
+</resources>

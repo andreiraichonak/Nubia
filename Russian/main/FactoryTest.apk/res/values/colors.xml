@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lcd_red">#ffff0000</color>
+    <color name="lcd_green">#ff00ff00</color>
+    <color name="lcd_blue">#ff0000ff</color>
+    <color name="lcd_yellow">#ffffff00</color>
+    <color name="lcd_purple">#ff4b0082</color>
+    <color name="lcd_black">#ff000000</color>
+    <color name="lcd_white">#ffffffff</color>
+    <color name="lcd_gray">#ffb0b0b0</color>
+    <color name="lcd_pink">#fff08080</color>
+    <color name="lcd_brown">#ff8b4513</color>
+    <color name="lcd_lgreen">#ffadff2f</color>
+</resources>

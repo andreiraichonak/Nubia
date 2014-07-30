@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="region_entries">
+        <item>@string/north_america</item>
+        <item>@string/europe</item>
+        <item>@string/middle_east</item>
+        <item>@string/asia_pacific</item>
+        <item>@string/latin_america</item>
+        <item>@string/korea</item>
+        <item>@string/japan</item>
+        <item>@string/china</item>
+        <item>@string/australia</item>
+    </string-array>
+</resources>

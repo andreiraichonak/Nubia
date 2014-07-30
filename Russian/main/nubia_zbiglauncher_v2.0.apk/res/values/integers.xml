@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="nubia_res_config_activityShortDur">150</integer>
+    <integer name="nubia_res_config_activityDefaultDur">220</integer>
+    <integer name="zbiglauncher_default_screen_size">2</integer>
+    <integer name="default_circle_indicator_orientation">0</integer>
+</resources>

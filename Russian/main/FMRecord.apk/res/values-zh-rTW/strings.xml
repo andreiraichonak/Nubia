@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="spaceIsLow_content">USB 存儲設備空間不足，請更改錄音時長設置，或刪除某些錄音或者其他檔案。</string>
+    <string name="save_record_file">錄音已保存至 %1$s</string>
+    <string name="sdcard_no_space_cannot_recording">SD卡空間不足，不能錄音</string>
+    <string name="recording_stop_no_space">SD卡空間不足，錄音停止</string>
+</resources>
