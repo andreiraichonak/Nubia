@@ -5,7 +5,7 @@
     <string name="hello_world">Привет мир!</string>
     <string name="tab_local">Местный</string>
     <string name="tab_online">Онлайн</string>
-    <string name="tab_mashup">DIY</string>
+    <string name="tab_mashup">Коллаж</string>
     <string name="menu_action_bar_search">Поиск</string>
     <string name="menu_import_theme">Импортировать тему zip c SD-карты</string>
     <string name="menu_import_wallpaper">Импортировать другим путем</string>
