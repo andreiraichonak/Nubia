@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="numeric_date_format">EEEE/ dd/MMMM/yyyy</string>
+    <string name="numeric_date_template" formatted="false">%s/%s/%s</string>
     <string name="hello">Благодарим Вас за использование смартфона nubia! Приложение Мастер установки поможет запустить Ваше устройство.</string>
     <string name="app_name">Мастер установки</string>
-    <string name="setupwizard_wellcome_nubia">Добро пожаловать в телефон nubia</string>
+	<string name="reg_url_back">http://10.204.79.125:8080/zuid-server/user/userOperate.zte</string>
+    <string name="setupwizard_wellcome_nubia">Благодарим Вас за использование смартфона nubia!</string>
+	<string name="reg_url">http://ucserver.v5.ztemt.com.cn/user/userOperate.zte</string>
     <string name="setupwizard_account_nubia">Аккаунт nubia</string>
     <string name="secretKey">fh4n6zw1se07a12hi4esi3bi2yknd1ny</string>
     <string name="appKey">45200348</string>
@@ -13,7 +17,7 @@
     <string name="free_create_account">C Nubia аккаунтом Вам будет доступно:</string>
     <string name="free_create_account_1">Аккаунт nubia</string>
     <string name="personal_cloud">Облачное хранилище</string>
-    <string name="backup_restore">Резервное копирование в ?облако?</string>
+    <string name="backup_restore">Резервное копирование в облако</string>
     <string name="remote_device">Доступ к удаленным устройствам</string>
     <string name="many_services">Доступ к другим сервисам Nubia</string>
     <string name="many_services_1">Использовать все типы сервисов при помощи единственного аккаунта</string>
@@ -23,9 +27,9 @@
     <string name="bt_cereate_account">Создать учетную запись</string>
     <string name="bt_login_account">Вход</string>
     <string name="wellcome_nubia">Вас приветствует</string>
-    <string name="wellcome_nubia_style2">Добро пожаловать в телефон nubia</string>
+    <string name="wellcome_nubia_style2">Благодарим Вас за использование смартфона nubia!</string>
     <string name="zsetupwizard_phone">телефон</string>
-    <string name="zsetupwizard_show_info">Нажмите ?Завершить? для завершения настройки.</string>
+    <string name="zsetupwizard_show_info">Нажмите "Завершить" для окончания настройки.</string>
     <string name="start">Завершить</string>
     <string name="set_data_and_time">Дата и время</string>
     <string name="set_date_and_time">Дата и время</string>
@@ -54,8 +58,8 @@
     <string name="date_time_12_hour_sample">1:00 pm</string>
     <string name="date_time_24_hour_sample">13:00</string>
     <string name="choose_timezone">Выбрать часовой пояс</string>
-    <string name="default_date_format">ММ/ДД/ГГГГ</string>
-    <string name="infoWizard">Это мастер установки от nubia, Дорогой пользователь может инициировать устройство прямо здесь. Удачи!</string>
+    <string name="default_date_format">EEEE/ДД/ММММ/ГГГГ</string>
+    <string name="infoWizard">Это мастер установки nubia, вы можете инициировать устройство прямо здесь. Удачи!</string>
     <string name="languageSetting">Выберите язык</string>
     <string name="inputmethodSetting">Выберите язык ввода</string>
     <string name="dateSetting">Установите дату и время</string>
@@ -69,7 +73,7 @@
     <string name="createAccount">Создать учетную запись</string>
     <string name="login">Логин</string>
     <string name="finish">Завершить</string>
-    <string name="finishInfo">Поздравляем! Мастер установки nubia был завершен. Удачи! Спасибо!</string>
+    <string name="finishInfo">Поздравляем! Мастер установки nubia завершает свою работу. Удачи! Спасибо!</string>
     <string name="username">Имя пользователя:</string>
     <string name="emailAdd">Email Адрес:</string>
     <string name="emailAdd1">Email Адрес:</string>
@@ -153,6 +157,9 @@
     <string name="set_finish1">Настройка</string>
     <string name="china">Китай</string>
     <string name="hongkong">ГонКонг</string>
+	<string name="belarus">Беларусь</string>
+	<string name="ukraine">Украина</string>
+	<string name="lithuania">Литва</string>
     <string name="theme_title">Выберите тему</string>
     <string name="Theme1">Тёмная тема</string>
     <string name="Theme2">Светлая тема</string>
