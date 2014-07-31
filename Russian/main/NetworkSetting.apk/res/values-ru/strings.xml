@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="progress_scanning">Поиск…</string>
+    <string name="search_networks">Поиск сетей</string>
+    <string name="no_network">Сети не найдены.</string>
+    <string name="select_automatically">Автоматический поиск</string>
+    <string name="sum_select_automatically">Автовыбор предпочитаемой сети</string>
+    <string name="available_networks">Доступные сети</string>
+    <string name="register_on_network">Регистрация в %1$s…</string>
+    <string name="register_automatically">Автоматическая регистрация…</string>
+    <string name="network_query_error">Ошибка при регистрации в сети.</string>
+    <string name="not_allowed">"Ваша SIM-карта не позволяет присоединиться к этой сети."</string>
+    <string name="connect_later">"Невозможно соединиться с сетью. Попробуйте позже."</string>
+    <string name="quit_mention">Внимание!</string>
+    <string name="dialog_message">Выход прервет поиск, вы уверены, что хотите выйти?</string>
+    <string name="timeout_message">Не найдены доступные сети.</string>
+    <string name="registration_done">Регистрация завершена.</string>
+    <string name="MTS BY">MTC BY</string>
+    <string name="Velcom">Velcom</string>
+    <string name="Life BY">Life:)</string>
+    <string name="roamingTextSearching">Поиск услуг</string>
+    <string name="network_forbidden">(забыть)</string>
+</resources>

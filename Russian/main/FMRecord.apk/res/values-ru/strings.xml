@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_storage">Монтирование SD-карты перед началом записи</string>
+    <string name="preparing_sd">Подготовка SD-карты</string>
+    <string name="access_sd_fail">"Нет доступа к SD-карте."</string>
+    <string name="spaceIsLow_content">SD-карта переполнена. Смените качество записи, либо удалите ненужные файлы.</string>
+    <string name="FMRecording_reach_size_limit">Максимальный размер достигнут.</string>
+    <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
+    <string name="audio_db_artist_name">Mои ФМ записи</string>
+    <string name="audio_db_album_name">ФМ записи</string>
+    <string name="audio_db_playlist_name">ФМ записи</string>
+    <string name="save_record_file">ФМ запись сохранена в файле %1$s</string>
+    <string name="fm_record_progress">ФМ запись продолжается...</string>
+    <string name="unable_to_store">Невозможно сохранить записанное аудио</string>
+</resources>

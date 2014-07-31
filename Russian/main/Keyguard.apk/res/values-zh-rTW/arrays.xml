@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="photo_flow_play_time">
+        <item>1分鐘</item>
+        <item>3分鐘</item>
+        <item>5分鐘</item>
+        <item>10分鐘</item>
+        <item>一直</item>
+    </string-array>
+</resources>

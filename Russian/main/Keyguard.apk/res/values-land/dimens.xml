@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="kg_secure_padding_height">0.0dip</dimen>
+    <dimen name="kg_widget_pager_top_padding">0.0dip</dimen>
+    <dimen name="kg_widget_pager_bottom_padding">0.0dip</dimen>
+    <dimen name="kg_squashed_layout_threshold">400.0dip</dimen>
+    <dimen name="keyguard_meca_margin_bottom">70.0dip</dimen>
+    <dimen name="keyguard_eca2_margin_bottom">70.0dip</dimen>
+    <dimen name="unlock_div_up_margin_top">180.0dip</dimen>
+    <dimen name="unlock_div_down_margin_top">360.0dip</dimen>
+    <dimen name="unlock_cam_tv_margin_bottom">54.0dip</dimen>
+    <dimen name="unlock_normal_tv_margin_bottom">46.0dip</dimen>
+    <dimen name="dragview_unlockview_switch_line_height">100.0dip</dimen>
+    <dimen name="keyguard_security_pin_top_margin">40.0dip</dimen>
+    <dimen name="keyguard_security_sim_buttom_margin_bootom">15.0dip</dimen>
+    <dimen name="kg_emergency_button_shift">30.0dip</dimen>
+    <dimen name="keyguard_land_margin_top">20.0dip</dimen>
+    <dimen name="keyguard_security_view_land_message_margin_top">143.0dip</dimen>
+</resources>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <integer name="weight_cdma">0</integer>
-    <integer name="weight_gsm">2</integer>
-    <integer name="weight_wcdma">1</integer>
-    <integer name="weight_tdscdma">1</integer>
-    <integer name="weight_lte">0</integer>
-</resources>
