@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nubia_res_app_name">Ресурсы Nubia</string>
+    <string name="nubia_res_capital_on">ВКЛ</string>
+    <string name="nubia_res_capital_off">ВЫКЛ</string>
+    <string name="nubia_res_action_menu_overflow_description">Больше настроек</string>
+    <string name="nubia_res_media_route_button_content_description">Вывод медиаконтента</string>
+    <string name="nubia_res_candidates_style"><u>содержимое</u></string>
+    <string name="nubia_res_ok">OK</string>
+    <string name="nubia_res_cancel">Отмена</string>
+    <string name="nubia_res_yes">OK</string>
+    <string name="nubia_res_no">Отмена</string>
+    <string name="nubia_res_paste">Вставить</string>
+    <string name="nubia_res_number_picker_increment_button">Увеличить</string>
+    <string name="nubia_res_number_picker_decrement_button">Уменьшить</string>
+    <string name="nubia_res_number_picker_increment_scroll_mode">%s коснитесь и удерживайте.</string>
+    <string name="nubia_res_number_picker_increment_scroll_action">Проведите вверх, чтобы увеличить, и вниз - чтобы уменьшить значение.</string>
+    <string name="nubia_res_time_picker_increment_minute_button">Увеличить минуты</string>
+    <string name="nubia_res_time_picker_decrement_minute_button">Уменьшить минуты</string>
+    <string name="nubia_res_time_picker_increment_hour_button">Увеличить часы</string>
+    <string name="nubia_res_time_picker_decrement_hour_button">Уменьшить часы</string>
+    <string name="nubia_res_time_picker_increment_set_pm_button">Установить PM</string>
+    <string name="nubia_res_time_picker_decrement_set_am_button">Установить AM</string>
+    <string name="nubia_res_date_picker_increment_month_button">Увеличить месяцы</string>
+    <string name="nubia_res_date_picker_decrement_month_button">Уменьшить месяцы</string>
+    <string name="nubia_res_date_picker_increment_day_button">Увеличить значение дней</string>
+    <string name="nubia_res_date_picker_decrement_day_button">Уменшить значение дней</string>
+    <string name="nubia_res_date_picker_increment_year_button">Следующий год</string>
+    <string name="nubia_res_date_picker_decrement_year_button">Предыдущий год</string>
+    <string name="nubia_res_time_picker_dialog_title">Установить время</string>
+    <string name="nubia_res_date_picker_dialog_title">Установит дату</string>
+    <string name="nubia_res_date_time_set">Установить</string>
+    <string name="nubia_res_date_time_done">Готово</string>
+    <string name="nubia_res_time_picker_separator">:</string>
+    <string name="nubia_res_time_picker_separator_m" />
+    <string name="nubia_res_date_picker_separator_year" />
+    <string name="nubia_res_date_picker_separator_month" />
+    <string name="nubia_res_date_picker_separator_day" />
+    <string name="nubia_common_label">cn.nubia</string>
+</resources>
