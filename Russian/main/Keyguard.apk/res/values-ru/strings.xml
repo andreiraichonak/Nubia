@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">KeyguardTestActivity</string>
+    <string name="app_name">NBLockScreen</string>
+    <string name="ok">@android:string/ok</string>
+    <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
+    <string name="widget_default_package_name" />
+    <string name="widget_default_class_name" />
+    <string name="config_notificationDefaultComponent">com.android.keyguard/cn.nubia.notification.CardListenerService</string>
+    <string name="date_format">dd MMMM, EEEE</string>
+    <string name="abbrev_wday_month_day_no_year">dd EEEE MMMM</string>
+    <string name="clock_12hr_format">ч м</string>
+    <string name="clock_24hr_format">Ч М</string>
     <string name="keyguard_password_enter_pin_code">Введите PIN-код</string>
     <string name="keyguard_password_enter_puk_code">Введите PUK-код и новый PIN-код</string>
     <string name="keyguard_password_enter_puk_prompt">PUK-код</string>
@@ -9,6 +18,13 @@
     <string name="keyguard_password_enter_password_code">Введите пароль</string>
     <string name="keyguard_password_enter_pin_password_code">Введите PIN-код</string>
     <string name="keyguard_password_wrong_pin_code">Неверный PIN-код.</string>
+	<string name="keyguard_password_wrong_puk_code">Неверный PUK-код!</string>
+    <string name="keyguard_password_pin_failed">Операция по вводу PIN-кода прервана!</string>
+    <string name="keyguard_password_puk_failed">Операция по вводу PUK-кода прервана!</string>
+    <string name="keyguard_pin_accepted">Код одобрен!</string>
+    <string name="pinpuk_attempts">"
+Осталось попыток:"</string>
+    <string name="lockscreen_sim_error_message_short">СИМ-карта недействительна.</string>
     <string name="keyguard_label_text">Для разблокировки нажмите \"Меню\", а затем 0.</string>
     <string name="faceunlock_multiple_failures">Все попытки войти с помощью Фейсконтроля использованы</string>
     <string name="keyguard_charged">Батарея заряжена</string>
@@ -16,6 +32,7 @@
     <string name="keyguard_low_battery">Подключите зарядное устройство.</string>
     <string name="keyguard_instructions_when_pattern_disabled">Для разблокировки нажмите \"Меню\".</string>
     <string name="keyguard_network_locked_message">Сеть заблокирована</string>
+	<string name="keyguard_perso_locked_message">SIM/RUIM-карта заблокирована</string>
     <string name="keyguard_missing_sim_message_short">Нет SIM-карты</string>
     <string name="keyguard_missing_sim_message">Нет SIM-карты.</string>
     <string name="keyguard_missing_sim_instructions">Вставьте SIM-карту.</string>
@@ -26,6 +43,8 @@
     <string name="keyguard_sim_locked_message">SIM-карта заблокирована.</string>
     <string name="keyguard_sim_puk_locked_message">Для разблокировки SIM-карты требуется PUK-код.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
+	<string name="keyguard_widget_12_hours_format">ч:мм</string>
+    <string name="keyguard_widget_24_hours_format">чч:мм</string>
     <string name="keyguard_accessibility_widget_changed">%1$s. Виджет %2$d из %3$d.</string>
     <string name="keyguard_accessibility_add_widget">Добавить виджет</string>
     <string name="keyguard_accessibility_widget_empty_slot">Пусто</string>
@@ -133,7 +152,7 @@
     <string name="keyguard_transport_play_description">Кнопка воспроизведения</string>
     <string name="keyguard_transport_stop_description">Кнопка выключения</string>
     <string name="keyguard_carrier_default">Нет сигнала.</string>
-    <string name="secure_app_name">UnifiedCamera</string>
+    <string name="secure_app_name">Камера</string>
     <string name="none_menu_item">Защита отключена</string>
     <string name="pin_menu_item">PIN-код</string>
     <string name="password_menu_item">Пароль</string>
@@ -144,5 +163,44 @@
     <string name="on_screen_turned_off">onScreenTurnedOff</string>
     <string name="on_screen_turned_on">onScreenTurnedOn</string>
     <string name="do_keyguard">doKeyguard</string>
-    <string name="verify_unlock">verifyUnlock</string>
+    <string name="verify_unlock">верификация</string>
+    <string name="msim_kg_sim_pin_msg_format" formatted="false">SUB%d : %s</string>
+    <string name="msim_carrier_text_format" formatted="false">[%s], [%s]</string>
+    <string name="unlock">Разблокировать</string>
+    <string name="message_separator">—</string>
+    <string name="charging">Заряжается, %d%%</string>
+    <string name="charged">Заряжено</string>
+    <string name="low_battery">Подключите зарядное устройство</string>
+    <string name="card_exit">выход</string>
+    <string name="card_cancel">отмена</string>
+    <string name="send_card_test">послать</string>
+    <string name="unlock_to_cam">Камера</string>
+    <string name="unlock_normal">Разблокировать</string>
+    <string name="messages_slide_up_tips">Листайте для просмотра сообщений</string>
+    <string name="lockscreen_battery_charged">Заряжено</string>
+    <string name="lockscreen_battery_charging">Заряжается</string>
+    <string name="lockscreen_battery_low">Низкий заряд батареи. Зарядите!</string>
+    <string name="lockscreen_battery_overheatorclod">Перегрев!</string>
+    <string name="lockscreen_battery_precent">%d%%</string>
+    <string name="helloname">AiLin</string>
+    <string name="lockscreen_sms_conversation_count">( %d )</string>
+    <string name="lockscreen_privacy_sms_tips">Новое сообщение!</string>
+    <string name="lockscreen_miss_call_tips">Пропущенные звонки</string>
+    <string name="card_mms_message_content">Получено %d новых сообщений</string>
+    <string name="card_thirdapp_message_content">Новое сообщение!</string>
+    <string name="lockscreen_setting_title">Локскрин Фото</string>
+    <string name="lockscreen_app_list_title">Локскрин дисплей</string>
+    <string name="app_notification_preferences">Уведомления приложений</string>
+    <string name="title_lockscreen_preference">Уведомления приложений</string>
+    <string name="photo_flow_preference">ФотоПоток</string>
+    <string name="title_photo_flow_preference">Локскрин Фото</string>
+    <string name="title_photo_flow_time_preference">Время воспроизведения</string>
+    <string name="title_photo_flow_select_preference">Выберите папку</string>
+    <string name="save_password_label">Подтвердите</string>
+    <string name="sys_mts_by">MTS BY</string>
+    <string name="sys_Velcom">Velcom</string>
+    <string name="sys_Life">Life:)</string>
+    <string name="keyguard_airplane_mode_string">Режим полета</string>
+    <string name="keyguard_sim_locked_message_dural">SIМ-карта %d заблокирована.</string>
+    <string name="keyguard_sim_puk_locked_message_dural">SIM-карта %d заблокирована PUK-кодом.</string>
 </resources>

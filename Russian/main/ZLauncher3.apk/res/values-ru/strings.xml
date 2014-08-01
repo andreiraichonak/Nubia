@@ -98,7 +98,7 @@
     <string name="app_loading_title">Загрузка</string>
     <string name="app_loading_message">Загрузка приложений, пожалуйста подождите</string>
     <string name="workspace_cling_open_edit">Нажмите и держите долго значок чтобы организовать значки</string>
-    <string name="cling_i_known">Я знаю</string>
+    <string name="cling_i_known">Понятно</string>
     <string name="edit_cling_move_item">Продолжайте нажимать на значок, и значок в области будет обработан</string>
     <string name="edit_cling_arrange_area">Область обрабатывается</string>
     <string name="edit_cling_finish">Перейдите на другой экран, нажимая и удерживая значок, чтобы чтобы завершить перемещение</string>

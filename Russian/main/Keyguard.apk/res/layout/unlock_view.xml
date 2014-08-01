@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageView android:id="@id/imgLineUp" android:background="@drawable/line_normal" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/unlock_div_up_margin_top" android:layout_centerHorizontal="true" />
-    <ImageView android:id="@id/imgLineDown" android:background="@drawable/line_normal" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/unlock_div_down_margin_top" android:layout_centerHorizontal="true" />
-    <TextView android:textColor="@color/white" android:id="@id/unlock_cam_tv" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/unlock_cam_tv_margin_bottom" android:text="@string/unlock_to_cam" android:layout_alignBottom="@id/imgLineUp" android:layout_centerHorizontal="true" android:alpha="0.6" />
-    <TextView android:textColor="@color/white" android:id="@id/unlock_normal_tv" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/unlock_normal_tv_margin_bottom" android:text="@string/unlock_normal" android:layout_alignBottom="@id/imgLineDown" android:layout_centerHorizontal="true" android:alpha="0.6" />
-</RelativeLayout>

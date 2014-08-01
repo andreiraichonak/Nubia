@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <integer name="card_popwindow_width">1080</integer>
-    <integer name="card_touch_hiden_height">800</integer>
-</resources>

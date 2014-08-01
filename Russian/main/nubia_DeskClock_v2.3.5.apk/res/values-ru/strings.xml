@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abbrev_wday_month_day_no_year">EEE, d MMMM</string>
-    <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
+    <string name="abbrev_wday_month_day_no_year">EEEE, dd MMMM</string>
+    <string name="full_wday_month_day_no_year">EEEE, dd MMMM</string>
     <string name="app_label">Часы</string>
     <string name="alarm_list_title">Будильник</string>
     <string name="add_alarm">Добавить будильник</string>

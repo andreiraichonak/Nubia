@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="ControlPanelStyle">
-        <item name="android:paddingRight">10.0dip</item>
-        <item name="android:layout_width">@dimen/control_panel_btn_size</item>
-        <item name="android:layout_height">@dimen/control_panel_btn_size</item>
-    </style>
-</resources>

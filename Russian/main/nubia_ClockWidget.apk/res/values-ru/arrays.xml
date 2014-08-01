@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="cities_names">
-        <item>Abidjan</item>
-        <item>Accra</item>
-        <item>Addis Ababa</item>
+        <item>Aбиджан</item>
+        <item>Aккра</item>
+        <item>Аддис-Абеба</item>
         <item>Algiers</item>
         <item>Blantyre</item>
         <item>Brazzaville</item>
@@ -181,7 +181,7 @@
         <item>Luxembourg</item>
         <item>Madrid</item>
         <item>Malta</item>
-        <item>Minsk</item>
+        <item>Минск</item>
         <item>Monaco</item>
         <item>Moscow</item>
         <item>Oslo</item>
@@ -485,7 +485,7 @@
         <item>Europe/Luxembourg</item>
         <item>Europe/Madrid</item>
         <item>Europe/Malta</item>
-        <item>Europe/Minsk</item>
+        <item>Европа/Минск</item>
         <item>Europe/Monaco</item>
         <item>Europe/Moscow</item>
         <item>Europe/Oslo</item>

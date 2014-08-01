@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Отзыв о б аварийном закрытии</string>
+    <string name="exception_title">Расшифровка случившегося:</string>
+    <string name="exception_title_hint">Расскажите нам, что произошло</string>
+    <string name="exception_steps">Шаг:</string>
+    <string name="exception_steps_hint">Пожалуйста, расскажите нам о ваших действиях</string>
+    <string name="exception_info">Информация:</string>
+    <string name="but_send">Послать</string>
+    <string name="but_cancel">Отмена</string>
+    <string name="setting_wiless_btn">Настройки</string>
+    <string name="setting_wiless_title">Установки сети</string>
+    <string name="setting_wiless_message">Для загрузки файла журнала логирования необходимо сетевое соединение. Пожалуйста, включите сетевое соединение,лог будет отправлен после его включения.</string>
+</resources>

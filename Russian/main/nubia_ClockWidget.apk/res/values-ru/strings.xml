@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">NubiaClockWidget</string>
-    <string name="digital_clock_widget">Digital Clock</string>
-    <string name="analog_clock_widget">Analog Clock</string>
-    <string name="month">M</string>
-    <string name="day">D</string>
+    <string name="app_name">NubiaВиджет Часы</string>
+    <string name="digital_clock_widget">Цифровые часы</string>
+    <string name="analog_clock_widget">Aналоговые часы</string>
+    <string name="month">М</string>
+    <string name="day">Д</string>
     <string name="am">AM</string>
     <string name="pm">PM</string>
-    <string name="monday">Monday</string>
-    <string name="tuesday">Tuesday</string>
-    <string name="wednesday">Wednesday</string>
-    <string name="thursday">Thursday</string>
-    <string name="friday">Friday</string>
-    <string name="saturday">Saturday</string>
-    <string name="sunday">Sunday</string>
-    <string name="date_format">MM/dd</string>
+    <string name="monday">Понедельник</string>
+    <string name="tuesday">Вторник</string>
+    <string name="wednesday">Среда</string>
+    <string name="thursday">Четверг</string>
+    <string name="friday">Пятница</string>
+    <string name="saturday">Суббота</string>
+    <string name="sunday">Воскресенье</string>
+    <string name="date_format">EEEE dd MMMM</string>
 </resources>

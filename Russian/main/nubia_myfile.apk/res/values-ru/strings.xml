@@ -94,7 +94,7 @@
     <string name="pref_primary_folder">Корневая папка</string>
     <string name="pref_read_root">Читать корень</string>
     <string name="pref_primary_folder_summary">Папка которая появляется при запуске приложения, с текщим значением %1$s</string>
-    <string name="app_name">управление облаком</string>
+    <string name="app_name">Файловый менеджер</string>
     <string name="visit">посетить</string>
     <string name="synchronize">синхронизировать</string>
     <string name="storage_show">хранилище</string>
