@@ -5,16 +5,16 @@
     <string name="activity_account_intro_register_btn">Создать новую учетную запись</string>
     <string name="hello_world">Здравствуй мир!</string>
     <string name="menu_settings">Настройки</string>
-    <string name="title_activity_main">ГлавнаяАктивность</string>
+    <string name="title_activity_main">Главная Активность</string>
     <string name="activity_account_intro_login_btn">Логин</string>
-    <string name="account_intro_title">Менеджер учетных записей nubia</string>
-    <string name="authenticator_label">Учетная запиь nubia</string>
-    <string name="account">Учетная запись</string>
-    <string name="account_note_title">Создав уч. запись вы сможете:</string>
-    <string name="account_note_message">"Иметь свой облачный диск
-Делать рез. копии ваших данных
-Удаленно находить ваш телефон
-Иметь доступ ко всем сервисам через одну уч. запись"</string>
+    <string name="account_intro_title"> Менеджер учетных записей nubia</string>
+    <string name="authenticator_label"> Учетная запиь nubia</string>
+    <string name="account"> Учетная запись</string>
+    <string name="account_note_title"> Создав учётную запись вы сможете:</string>
+    <string name="account_note_message">" Иметь свой облачный диск
+ Делать рез. копии ваших данных
+ Удаленно находить ваш телефон
+ Иметь доступ ко всем сервисам через одну учётную запись"</string>
     <string name="account_login_welcome_txt">Регистрация уч. записи nubia</string>
     <string name="account_login_welcome_txt2">Способы регистрации:</string>
     <string name="section_login_by_email_title">Email</string>
@@ -144,7 +144,7 @@
     <string name="thirdparty_login_tips">Успешный вход через %1$1s</string>
     <string name="thirdparty_qq">QQ</string>
     <string name="thirdparty_wb">Sina Weibo</string>
-    <string name="thirdparty_login_first">"КонфигурацииВаш аккаунт nubia сейчас:
+    <string name="thirdparty_login_first">"Конфигурация Вашего аккаунт nubia сейчас:
 Username is %1$1s
 Пароль %2$s
 Пожалуйста, храните тщательно."</string>
