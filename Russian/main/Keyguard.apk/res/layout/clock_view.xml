@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_gravity="tpo|center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textAppearance="?android:textAppearanceSmall" android:textSize="@dimen/lockscreen_def_colck_text" android:textColor="#ffffffff" android:ellipsize="none" android:id="@id/clock_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:drawablePadding="2.0dip" android:layout_centerHorizontal="true" style="@style/shadow_style_for_white_text" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_below="@id/clock_text" android:textColor="transparent" android:layout_centerHorizontal="true">
+            <TextView android:textSize="@dimen/lockscreen_def_colck_date_text" android:textColor="#ffffffff" android:ellipsize="marquee" android:id="@id/date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/shadow_style_for_white_text" />
+            <TextView android:textAppearance="?android:textAppearance" android:textSize="@dimen/lockscreen_def_colck_am_pm_text" android:textColor="#ffffffff" android:ellipsize="none" android:id="@id/am_pm" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="4.0dip" android:singleLine="true" style="@style/shadow_style_for_white_text" />
+        </LinearLayout>
+    </RelativeLayout>
+    <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:paddingTop="@dimen/lockscreen_def_owner_info_padding_top" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/lockscreen_def_owner_info_text" android:textColor="#ffffffff" android:ellipsize="marquee" android:id="@id/owner_info" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/shadow_style_for_white_text" />
+    </LinearLayout>
+</LinearLayout>

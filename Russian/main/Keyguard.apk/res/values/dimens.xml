@@ -75,9 +75,9 @@
     <dimen name="listdivider_height">0.5dip</dimen>
     <dimen name="preference_category_height">99.0dip</dimen>
     <dimen name="dragview_unlockview_switch_line_height">120.0dip</dimen>
-    <dimen name="lockscreen_def_colck_text">95.0dip</dimen>
+    <dimen name="lockscreen_def_colck_text">120.0dip</dimen>
     <dimen name="lockscreen_def_colck_am_pm_text">12.0dip</dimen>
-    <dimen name="lockscreen_def_colck_date_text">18.0dip</dimen>
+    <dimen name="lockscreen_def_colck_date_text">22.0dip</dimen>
     <dimen name="lockscreen_def_owner_info_text">10.0dip</dimen>
     <dimen name="lockscreen_def_owner_info_padding_top">5.0dip</dimen>
     <dimen name="lockscreen_card_tips_width">50.0dip</dimen>
